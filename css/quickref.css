@@ -143,11 +143,11 @@
 }
 
 #section-reaction, #section-reaction .item-icon {
-    background-color: DarkBlue ;
-    border-color: DarkBlue ;
+    background-color: #00228a ;
+    border-color: #00228a ;
 }
 #section-reaction .text {
-    color: DarkBlue ;
+    color: #00228a ;
 }
 
 #section-condition, #section-condition .item-icon {
