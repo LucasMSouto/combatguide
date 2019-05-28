@@ -175,6 +175,32 @@ data_action = [
         ]
     },
     {
+        title: "Stabilize a creature",
+        icon: "first-aid",
+        subtitle: "Administer first aid to a dying creature",
+        description: "Stop a dying creature from needing to make death saving throws",
+        reference: "PHB, pg. 197.",
+        bullets: [
+            "Make a Wisdom (Medicine) check with DC 10",
+            "On a success, the creature is stable and no longer needs to make death saving throws",
+            "A stable creature regains 1 hit point after 1d4 hours"
+        ]
+    },
+    {
+        title: "Counterattack",
+        icon: "crossed-sabres",
+        subtitle: "Counter melee attack",
+        description: "Focus entirely on countering the target creature's next melee attack",
+        reference: "Homebrew, no reference.",
+        bullets: [
+            "You hold this action until the target creature targets you with a melee attack.",
+            "To successfully counter the target's melee attack, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the target's attack roll.",
+            "The target of your <i>Counterattack</i> must be no more than one size larger than you, and it must be within your reach.",
+            "If you succeed, you parry (Strength) or deflect (Dexterity) the target's attack and make an <i>Opportunity Attack</i> against it.",
+            "You don't add your ability modifier to the damage of this attack, unless that modifier is negative."
+        ]
+    },
+    {
         title: "Improvise",
         icon: "juggler",
         subtitle: "Any action not on this list",
