@@ -127,11 +127,11 @@
 }
 
 #section-action, #section-action .item-icon {
-    background-color: lime;
-    border-color: lime;
+    background-color: #125412;
+    border-color: #125412;
 }
 #section-action .text {
-    color: lime;
+    color: #125412;
 }
 
 #section-bonus-action, #section-bonus-action .item-icon {
@@ -143,11 +143,11 @@
 }
 
 #section-reaction, #section-reaction .item-icon {
-    background-color: DarkOliveGreen ;
-    border-color: DarkOliveGreen ;
+    background-color: DarkBlue ;
+    border-color: DarkBlue ;
 }
 #section-reaction .text {
-    color: DarkOliveGreen ;
+    color: DarkBlue ;
 }
 
 #section-condition, #section-condition .item-icon {
