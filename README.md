@@ -7,7 +7,7 @@ Quick reference sheet for D&amp;D 5e
 Preview
 =======
 
-Click [here](preview/quickref.html) for a live preview.
+Click [here](quickref.html) for a live preview.
 
 
 Icons
