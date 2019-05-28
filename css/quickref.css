@@ -127,11 +127,11 @@
 }
 
 #section-action, #section-action .item-icon {
-    background-color: #0d590d;
-    border-color: #0d590d;
+    background-color: lime;
+    border-color: lime;
 }
 #section-action .text {
-    color: #0d590d;
+    color: lime;
 }
 
 #section-bonus-action, #section-bonus-action .item-icon {
