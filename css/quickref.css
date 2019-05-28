@@ -127,11 +127,11 @@
 }
 
 #section-action, #section-action .item-icon {
-    background-color: darkgreen;
-    border-color: darkgreen;
+    background-color: #0d590d;
+    border-color: #0d590d;
 }
 #section-action .text {
-    color: darkgreen;
+    color: #0d590d;
 }
 
 #section-bonus-action, #section-bonus-action .item-icon {
